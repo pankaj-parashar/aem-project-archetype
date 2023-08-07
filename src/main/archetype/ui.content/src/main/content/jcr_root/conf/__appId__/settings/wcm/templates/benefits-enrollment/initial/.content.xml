@@ -660,7 +660,6 @@
                     <cq:responsive jcr:primaryType="nt:unstructured">
                         <default
                             jcr:primaryType="nt:unstructured"
-                            behavior="newline"
                             offset="6"
                             width="6"/>
                     </cq:responsive>
